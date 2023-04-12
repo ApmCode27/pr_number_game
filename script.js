@@ -1,3 +1,7 @@
+//Project : Guess Number DOM practice
+//Name: Luis Padilla 
+//Date: October 2022
+
 'use strict';
 
 //Selecting elements -----------------------------------------------------------------
