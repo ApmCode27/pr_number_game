@@ -1,6 +1,6 @@
 //Project : Guess Number DOM practice
 //Name: Luis Padilla 
-//Date: October 2022
+//Date: March 2023
 
 'use strict';
 
