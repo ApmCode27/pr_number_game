@@ -1,4 +1,4 @@
-//Project : Guess Number DOM practice
+//Project : Dice Game DOM practice
 //Name: Luis Padilla 
 //Date: March 2023
 
